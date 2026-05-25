@@ -1,6 +1,7 @@
 body{background-color: #485C3E}
 
-header{width: 320px;
+header{width: 100%;
+max-width: 320px;
 margin: auto;}
 
 h1{  font-family: "Fredoka", sans-serif;
